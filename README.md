@@ -1,3 +1,3 @@
 # Jan Kynčl
 
-I'm student computer science and big fan of IT.
+I'm student of computer science and big fan of IT.
