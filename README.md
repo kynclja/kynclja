@@ -1,1 +1,3 @@
-Hi, my name is Jan Kynčl and I'm studying computer science.
+* Jan Kynčl
+
+I'm student computer science and big fan of IT.
