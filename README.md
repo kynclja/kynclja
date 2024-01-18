@@ -1,7 +1,7 @@
 # Jan Kynčl
 
 <!-- Social badges section -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/kynclja?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kynclja?color=CE4632&style=for-the-badge&labelColor=E15C47&logo=star"/></a>
   <a href="https://github.com/kynclja?tab=followers">
