@@ -1,7 +1,9 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=35&duration=4500&pause=500&color=C8005F&center=true&vCenter=true&repeat=false&random=false&width=650&height=100&lines=Welcome+to+profile+of;Jan+Kyn%C4%8Dl" alt="Typing SVG" /></a>
+</h1>
 <h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=25&duration=4500&pause=500&color=C8005F&center=true&vCenter=true&repeat=false&random=false&width=500&height=75&lines=student+of+computer+science;web+developer;software+developer" alt="Typing SVG" /></a></h2></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=25&duration=4500&pause=500&color=C8005F&center=true&vCenter=true&repeat=false&random=false&width=500&height=75&lines=student+of+computer+science;web+developer;software+developer" alt="Typing SVG" /></a>
+</h2>
 
 
 <!-- Social badges section -->
