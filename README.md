@@ -10,7 +10,7 @@
   </a>
 <!--   7B1A21 -->
 <!--   FD4710 -->
-  <a href="">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+<!--   <a href="">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/> -->
   </a>
 </p>
