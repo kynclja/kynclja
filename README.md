@@ -19,7 +19,6 @@
 <!--   <a href="">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a> -->
     
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical">
+<img alt="stats" width=50% align=center src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja)](https://github.com/anuraghazra/github-readme-stats)
-<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+<img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja">
