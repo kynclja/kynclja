@@ -14,10 +14,6 @@
   <a href="https://github.com/kynclja?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kynclja?color=7B1A21&labelColor=E73542&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<!--   7B1A21 E73542 -->
-<!--   FD4710 -->
-<!--   <a href="">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a> -->
     
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical">
 
