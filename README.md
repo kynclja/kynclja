@@ -8,6 +8,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kynclja?color=F75C7E&labelColor=E73542&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <!--   7B1A21 -->
 <!--   FD4710 -->
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+  <a href="">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
