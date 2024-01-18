@@ -20,3 +20,5 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a> -->
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
