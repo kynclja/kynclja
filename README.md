@@ -21,4 +21,4 @@
     
 <img alt="stats" width=50% align=center src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical">
 
-<img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja">
+<img alt="langs" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja&theme=radical">
