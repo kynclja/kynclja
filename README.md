@@ -24,3 +24,4 @@
 ## **Stats**
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical">
 <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja&theme=radical">
+<img src="https://streak-stats.demolab.com?user=&theme=radical&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
