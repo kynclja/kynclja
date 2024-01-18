@@ -1,4 +1,5 @@
-# Jan Kynčl
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=25&pause=1000&color=C8005F&repeat=false&random=false&width=435&lines=Jan+Kyn%C4%8Dl" alt="Typing SVG" /></a></h1>
 
 <!-- Social badges section -->
 <p align="left">
