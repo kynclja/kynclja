@@ -14,14 +14,13 @@
   <a href="https://github.com/kynclja?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kynclja?color=7B1A21&labelColor=E73542&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
+      
 ## **Info**
-  ``` 
+
     󱞫 Country:     Czech Republic
     󰞘 OS:          󰣇 Arch linux (dual boot with windows)
     󱞩 Text editor:  neovim
-  ```
-   
+    
 ## **Stats**
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical">
 <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja&theme=radical">
