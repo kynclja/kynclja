@@ -13,9 +13,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kynclja?color=CE4632&style=for-the-badge&labelColor=E15C47&logo=star"/></a>
   <a href="https://github.com/kynclja?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kynclja?color=7C1D24&labelColor=E4333F&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 <!--   7B1A21 E73542-->
 <!--   FD4710 -->
 <!--   <a href="">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/> -->
-  </a>
-</p>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a> -->
