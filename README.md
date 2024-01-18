@@ -3,7 +3,7 @@
   
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=35&duration=6500&pause=500&color=C8005F&center=true&vCenter=true&repeat=false&random=false&width=650&height=50&lines=Jan+Kyn%C4%8Dl" alt="Typing SVG" /></a>
   
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=25&duration=7000&pause=500&color=C8005F&center=true&vCenter=true&repeat=true&random=true&width=500&height=75&lines=student+of+computer+science;web+developer;software+developer" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=25&duration=6000&pause=500&color=C8005F&center=true&vCenter=true&repeat=true&random=true&width=500&height=75&lines=student+of+computer+science;web+developer;software+developer" alt="Typing SVG" /></a>
 </h1>
 
 <!-- Social badges section -->
