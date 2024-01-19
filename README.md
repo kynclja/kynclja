@@ -22,6 +22,6 @@
     󱞩 Text editor:  neovim
     
 ## **Stats**
-<img alt="streak" width=50% src="https://streak-stats.demolab.com?user=kynclja&theme=radical&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly">
-<img alt="stats"  width=50% src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical&hide=commits,contribs">
+<img alt="streak" src="https://streak-stats.demolab.com?user=kynclja&theme=radical&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly">
+<img alt="stats"  src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical&hide=commits,contribs">
 <img alt="langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja&theme=radical">
