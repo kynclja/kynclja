@@ -17,9 +17,9 @@
       
 ## **Info**
 
-    󱞫 Country:     Czech Republic
-    󰞘 OS:          󰣇 Arch linux (dual boot with windows)
-    󱞩 Text editor:  neovim
+    ┌ Country:     Czech Republic
+    ├ OS:          Arch linux (dual boot with windows)
+    └ Text editor: Neovim
     
 ## **Stats**
 <img alt="streak" src="https://streak-stats.demolab.com?user=kynclja&theme=radical&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly">
