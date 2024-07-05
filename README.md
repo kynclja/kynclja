@@ -26,4 +26,4 @@ My webpage:  [link](https://kynclja.github.io/)
 <img alt="streak" src="https://streak-stats.demolab.com?user=kynclja&theme=radical&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly">
 <img alt="stats"  src="https://github-readme-stats.vercel.app/api?username=kynclja&show_icons=true&theme=radical&hide=commits,contribs">
 <img alt="langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynclja&theme=radical">
-<img alt="langs"  src="https://leetcode.card.workers.dev/toxho?theme=dark&border=0&radius=20&ext=heatmap">
+<img alt="leetcode"  src="https://leetcode.card.workers.dev/toxho?theme=dark&border=0&radius=20&ext=heatmap">
